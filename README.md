@@ -35,9 +35,14 @@ Feature	Description
 WSL + Kali Bootstrap	Installs and configures Kali Linux under WSL
 Shim Generator	.bat shims that attach WSL tools to new CMD windows
 Smart Shortcut Engine	Auto-detects tool icons and names, places them in Start Menu/Desktop
-Remote Access (Opt-in)	SSH via OpenSSH, authorized-key only
 Hidden Icons Option	Hides .ico files from tool directories
 GUI Installer	Beautiful front-end to manage installation steps
+
+Comes with: 
+every shell runs any kali linux command 
+full desktop icons and shortcuts categorized
+turns any windows into FlareXwindows
+
 
 📦 Usage
 Download
