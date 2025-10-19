@@ -64,3 +64,6 @@ Supports air-gapped deployment
 
 🛠️ Built with love in PowerShell, Python, and bash
 
+
+#flare-x #windows #wsl #kali #openssh #redteam #pentest #installer #infosec #automation
+
