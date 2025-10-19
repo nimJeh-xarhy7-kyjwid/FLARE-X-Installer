@@ -1,5 +1,7 @@
 Cybersecurity Swiss Army Knife. One executable. Full deployment.
 
+-------------------------------------------------------------------
+
 🚀 What is FLARE-X?
 
 FLARE-X is a one-click cybersecurity tool installer designed for red teamers, researchers, and power users. On first run, it:
